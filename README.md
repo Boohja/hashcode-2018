@@ -12,7 +12,11 @@ npm i -g nodemon
 ```
 No need to install it globally, but hey it's cool.
 
-Run with
+For hot-reload, run with
 ```
-nodemon
+npm run dev
+```
+Otherwise use
+```
+npm run start
 ```
